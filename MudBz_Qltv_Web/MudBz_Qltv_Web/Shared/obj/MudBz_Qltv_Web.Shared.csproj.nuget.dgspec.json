@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Shared\\MudBz_Qltv_Web.Shared.csproj": {}
+  },
+  "projects": {
+    "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Shared\\MudBz_Qltv_Web.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Shared\\MudBz_Qltv_Web.Shared.csproj",
+        "projectName": "MudBz_Qltv_Web.Shared",
+        "projectPath": "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Shared\\MudBz_Qltv_Web.Shared.csproj",
+        "packagesPath": "C:\\Users\\tanph\\.nuget\\packages\\",
+        "outputPath": "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tanph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

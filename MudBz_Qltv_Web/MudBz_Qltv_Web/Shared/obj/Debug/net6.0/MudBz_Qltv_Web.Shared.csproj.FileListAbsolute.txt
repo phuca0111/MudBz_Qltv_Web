@@ -1,0 +1,24 @@
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\bin\Debug\net6.0\MudBz_Qltv_Web.Shared.deps.json
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\bin\Debug\net6.0\MudBz_Qltv_Web.Shared.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\bin\Debug\net6.0\MudBz_Qltv_Web.Shared.pdb
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\MudBz_Qltv_Web.Shared.csproj.AssemblyReference.cache
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\MudBz_Qltv_Web.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\MudBz_Qltv_Web.Shared.AssemblyInfoInputs.cache
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\MudBz_Qltv_Web.Shared.AssemblyInfo.cs
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\MudBz_Qltv_Web.Shared.csproj.CoreCompileInputs.cache
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\MudBz_Qltv_Web.Shared.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\refint\MudBz_Qltv_Web.Shared.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\MudBz_Qltv_Web.Shared.pdb
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\ref\MudBz_Qltv_Web.Shared.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\bin\Debug\net6.0\MudBz_Qltv_Web.Shared.deps.json
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\bin\Debug\net6.0\MudBz_Qltv_Web.Shared.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\bin\Debug\net6.0\MudBz_Qltv_Web.Shared.pdb
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\MudBz_Qltv_Web.Shared.csproj.AssemblyReference.cache
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\MudBz_Qltv_Web.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\MudBz_Qltv_Web.Shared.AssemblyInfoInputs.cache
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\MudBz_Qltv_Web.Shared.AssemblyInfo.cs
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\MudBz_Qltv_Web.Shared.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\MudBz_Qltv_Web.Shared.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\refint\MudBz_Qltv_Web.Shared.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\MudBz_Qltv_Web.Shared.pdb
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Shared\obj\Debug\net6.0\ref\MudBz_Qltv_Web.Shared.dll

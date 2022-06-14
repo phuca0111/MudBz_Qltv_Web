@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Server\\MudBz_Qltv_Web.Server.csproj": {}
+  },
+  "projects": {
+    "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Client\\MudBz_Qltv_Web.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Client\\MudBz_Qltv_Web.Client.csproj",
+        "projectName": "MudBz_Qltv_Web.Client",
+        "projectPath": "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Client\\MudBz_Qltv_Web.Client.csproj",
+        "packagesPath": "C:\\Users\\tanph\\.nuget\\packages\\",
+        "outputPath": "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tanph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Shared\\MudBz_Qltv_Web.Shared.csproj": {
+                "projectPath": "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Shared\\MudBz_Qltv_Web.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "MudBlazor": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.5, 6.0.5]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Server\\MudBz_Qltv_Web.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Server\\MudBz_Qltv_Web.Server.csproj",
+        "projectName": "MudBz_Qltv_Web.Server",
+        "projectPath": "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Server\\MudBz_Qltv_Web.Server.csproj",
+        "packagesPath": "C:\\Users\\tanph\\.nuget\\packages\\",
+        "outputPath": "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tanph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Client\\MudBz_Qltv_Web.Client.csproj": {
+                "projectPath": "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Client\\MudBz_Qltv_Web.Client.csproj"
+              },
+              "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Shared\\MudBz_Qltv_Web.Shared.csproj": {
+                "projectPath": "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Shared\\MudBz_Qltv_Web.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Shared\\MudBz_Qltv_Web.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Shared\\MudBz_Qltv_Web.Shared.csproj",
+        "projectName": "MudBz_Qltv_Web.Shared",
+        "projectPath": "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Shared\\MudBz_Qltv_Web.Shared.csproj",
+        "packagesPath": "C:\\Users\\tanph\\.nuget\\packages\\",
+        "outputPath": "D:\\BÀI TẬP\\Đồ án C#\\MudBz_Qltv_Web\\MudBz_Qltv_Web\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tanph\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

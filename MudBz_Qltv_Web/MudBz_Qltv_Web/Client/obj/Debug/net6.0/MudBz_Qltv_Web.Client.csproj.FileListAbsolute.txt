@@ -1,0 +1,1648 @@
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.5.7qmzeo3kfl.js
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\icudt.dat
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBlazor.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBz_Qltv_Web.Client.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBz_Qltv_Web.Client.pdb
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBz_Qltv_Web.Shared.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBz_Qltv_Web.Shared.pdb
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBz_Qltv_Web.Client.pdb.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.5.7qmzeo3kfl.js.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBz_Qltv_Web.Shared.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBz_Qltv_Web.Shared.pdb.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBz_Qltv_Web.Client.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBlazor.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\MudBz_Qltv_Web.Client.staticwebassets.runtime.json
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\MudBz_Qltv_Web.Client.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\MudBz_Qltv_Web.Client.pdb
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.CSharp.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.VisualBasic.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Win32.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Win32.Registry.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.AppContext.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Buffers.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Collections.Concurrent.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Collections.Immutable.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Collections.NonGeneric.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Collections.Specialized.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Collections.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ComponentModel.Annotations.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ComponentModel.EventBasedAsync.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ComponentModel.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ComponentModel.TypeConverter.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ComponentModel.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Configuration.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Console.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Core.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Data.Common.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Data.DataSetExtensions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Data.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.Contracts.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.Debug.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.Process.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.StackTrace.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.Tools.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.TraceSource.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.Tracing.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Drawing.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Drawing.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Dynamic.Runtime.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Globalization.Calendars.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Globalization.Extensions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Globalization.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.Compression.Brotli.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.Compression.FileSystem.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.Compression.ZipFile.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.Compression.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.FileSystem.AccessControl.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.FileSystem.DriveInfo.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.FileSystem.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.FileSystem.Watcher.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.FileSystem.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.IsolatedStorage.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.MemoryMappedFiles.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.Pipes.AccessControl.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.Pipes.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.UnmanagedMemoryStream.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Linq.Expressions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Linq.Parallel.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Linq.Queryable.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Linq.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Memory.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Http.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.HttpListener.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Mail.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.NameResolution.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.NetworkInformation.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Ping.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Quic.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Requests.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Security.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.ServicePoint.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Sockets.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.WebClient.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.WebHeaderCollection.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.WebProxy.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.WebSockets.Client.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.WebSockets.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Numerics.Vectors.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Numerics.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ObjectModel.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Private.DataContractSerialization.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Private.Uri.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Private.Xml.Linq.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Private.Xml.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.DispatchProxy.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.Emit.ILGeneration.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.Emit.Lightweight.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.Emit.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.Extensions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.Metadata.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.TypeExtensions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Resources.Reader.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Resources.ResourceManager.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Resources.Writer.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Extensions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Handles.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.InteropServices.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Intrinsics.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Loader.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Numerics.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Serialization.Json.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Serialization.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Serialization.Xml.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Serialization.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.AccessControl.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Claims.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Cryptography.Algorithms.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Cryptography.Cng.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Cryptography.Csp.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Cryptography.Encoding.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Cryptography.OpenSsl.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Cryptography.Primitives.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Principal.Windows.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Principal.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.SecureString.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ServiceModel.Web.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ServiceProcess.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Text.Encoding.Extensions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Text.Encoding.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Text.RegularExpressions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.Overlapped.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.Tasks.Dataflow.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.Tasks.Extensions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.Tasks.Parallel.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.Tasks.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.Thread.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.ThreadPool.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.Timer.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Transactions.Local.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Transactions.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ValueTuple.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Web.HttpUtility.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Web.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Windows.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.Linq.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.ReaderWriter.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.Serialization.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.XDocument.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.XPath.XDocument.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.XPath.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.XmlDocument.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.XmlSerializer.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\WindowsBase.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\mscorlib.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\netstandard.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Private.CoreLib.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\dotnet.js
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\dotnet.timezones.blat
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\dotnet.wasm
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\icudt.dat
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\icudt_CJK.dat
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\icudt_EFIGS.dat
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\icudt_no_CJK.dat
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\MudBz_Qltv_Web.Shared.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\MudBz_Qltv_Web.Shared.pdb
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.csproj.AssemblyReference.cache
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.AssemblyInfoInputs.cache
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.AssemblyInfo.cs
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.csproj.CoreCompileInputs.cache
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\6Xgy0WOs.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\lny3RVn7.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\usAlCm25.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\VLbu22HO.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Y6bhczQV.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\XIr64pBc.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\wYChWt3M.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\giIRB3D9.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Ckdb0cRV.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\nTyqX2Jc.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\j2UXTHYR.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\NvoOMxGY.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\RfqvE3HR.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Aqlf7RpI.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\PzxbqAPK.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\iZXNbknL.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\MSFyViXu.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\NfJ7PkXS.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\dzkpb4WI.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\+MEnUSXN.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\NiPlENV0.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\YSIsAmMC.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\w+bUIyOE.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\xuqsPIMB.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ocksh5cN.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\8JYGd8Db.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\bzb5axGB.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\yInAu+Qs.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\59+2tVNX.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\wpji6qKG.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\9tWjYa+i.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\6IQhwrUB.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\WocdetbA.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\H4qVYHSq.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Pr6nzcCk.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Sa5U+PBi.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\F4XsceFY.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\bt+fdB8P.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\yTJIvIeo.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\kalPow8w.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\IEh26ZJZ.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\QtHF4fvw.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\tw+b2JHk.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\kYHImh4d.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\QMGZB+0y.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\sZ+TMl8N.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Mp2wcHDB.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\WX5i+p5+.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\P8ZEU+JO.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\GJ+NiwPa.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\RqvXnvbX.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\DLU7pVVT.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\UNtKaA28.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Ob7ctran.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\sJlj9a+Q.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\e6g2t1pQ.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\W0izQ+5f.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\6YoijdQA.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Oi3any5f.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\RbdpYQRO.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\8eFeNdTB.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\GytzdSJa.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ZQnulVkq.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\HI56uH2b.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\cnsrXwte.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Hl0zOC2Z.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\nUHqhgQ2.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\z7RDXbZu.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\qO0h6khX.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Q3hoBmAg.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\bFD43DjJ.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Br712+tD.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\G7jiy20Y.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\CmScq843.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Do0woV1R.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\SJiLXH6A.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\rufcXJAx.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\hCyKk609.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\iYhsVj4E.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\cZ7mpVFh.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Wf4zf9HS.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\uo3yMEex.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ZaUYJ02t.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ll2HheLP.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\VPx7Av22.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Zh0XLpQR.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\X0K+094y.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\iZaz4VLU.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\+pIPEjmB.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\uJ+6c7yR.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\b+KjwPi5.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\nZ8Fnc9J.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Ypws5+hj.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\uCHM8IyL.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\mAQKU20v.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\2y4zzTd6.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\0qZjjXot.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\dYfvftsL.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\5NZLBHdC.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ebu6nFGY.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\DX13CH8b.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\XYJC5PuW.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\gCunDJ3q.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\B79BZ88J.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\QsWW1qQ+.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\DRqIOaDb.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\f6EO7d6u.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\KVT2orZj.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ZoDi2t+O.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\cIMdU8MH.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\BK7KWAjc.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\pRJUPtdC.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\THS89H8E.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\rnYKXTbf.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\EAonwkuE.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\uwdfhIIx.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\aQJ4huSi.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\OF+RI59W.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\q9P0sBII.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ZVp0gwKU.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Zl1buzy8.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\dAUmL7Dg.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\NBpLjDwx.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\27biQRuP.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ARWjPzO1.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\mPGin+qO.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\qIdz09r2.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\xDgO6G4x.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\mPNnQQOG.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\6nZW8Rot.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Rd5tqZ06.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\jVEYbHBc.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\DGxXt62e.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\wMmKk+u8.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\zUmSW5sw.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\DRoonrw5.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\hcQYwpoI.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\BYO1QCH1.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\dMUYwGtK.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Ybr31YyC.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\82iyGdKp.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\j4QHu9ih.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\v093cH+a.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\PKWOG3AT.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\T2TAvTnq.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\dNAbT1gc.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Z49PpG3M.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\TM4mBcAr.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\g7TNuVPF.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\PAisPRXi.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\9mXElCyC.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Avw6fNzq.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\lWIQn1bf.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\AmRrgIIZ.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\GTRfjwFs.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\4ljWAOvC.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\rqvpTZMr.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\kSkrCkGQ.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\n75FYE94.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\0PfyAUvq.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\1rZP7+s5.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\lqnl5miB.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\q3kEMwge.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\PvkHjJeO.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\QbUSpvN5.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\nBSBBHBr.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\f1m85NQM.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\sbhZq9na.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\+6PKHg3S.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\jBNvoT61.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\RiK1aE3g.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\3d2zdh9I.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\+p270jcM.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\a1I47wC2.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\aVMVTJwj.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\c7CEyHZO.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\MSLunn7x.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\+ObYyRyh.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\0OiLe3g8.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\w4E+ObHE.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\UUJ6JvQO.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\I0IR1z9L.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\K4oswXn0.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\rKg41ADE.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Pq3KUYED.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\gGjuBbh9.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\0ehUdAtp.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\17iPdSdN.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\D77dH3Ld.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\4R52J5Ni.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\9Nctr+Fh.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\sVB1zas4.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\iFxDTmLB.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\U5saQhnc.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\c68bD1aa.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Fd1+uInA.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\u7FIvSug.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ESHvpIdK.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\lPVXbvpB.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\PUWkAV6F.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\+mFTpe7Y.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\0TQzzShW.gz
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\blazor.boot.json
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\scopedcss\bundle\MudBz_Qltv_Web.Client.styles.css
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.csproj.CopyComplete
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\refint\MudBz_Qltv_Web.Client.dll
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.pdb
+C:\Users\tanph\source\repos\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\ref\MudBz_Qltv_Web.Client.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.5.7qmzeo3kfl.js
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\icudt.dat
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBlazor.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.5.7qmzeo3kfl.js.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Web.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Windows.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\netstandard.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Console.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Core.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\icudt.dat.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Quic.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Memory.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBlazor.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Data.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBz_Qltv_Web.Client.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBz_Qltv_Web.Client.pdb
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBz_Qltv_Web.Shared.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBz_Qltv_Web.Shared.pdb
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBz_Qltv_Web.Shared.pdb.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBz_Qltv_Web.Client.pdb.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBz_Qltv_Web.Client.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\wwwroot\_framework\MudBz_Qltv_Web.Shared.dll.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\MudBz_Qltv_Web.Client.staticwebassets.runtime.json
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\MudBz_Qltv_Web.Client.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\MudBz_Qltv_Web.Client.pdb
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.JSInterop.WebAssembly.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\MudBlazor.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.CSharp.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.VisualBasic.Core.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.VisualBasic.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Win32.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\Microsoft.Win32.Registry.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.AppContext.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Buffers.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Collections.Concurrent.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Collections.NonGeneric.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Collections.Specialized.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Collections.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ComponentModel.Annotations.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ComponentModel.DataAnnotations.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ComponentModel.EventBasedAsync.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ComponentModel.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ComponentModel.TypeConverter.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ComponentModel.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Configuration.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Console.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Core.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Data.Common.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Data.DataSetExtensions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Data.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.Contracts.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.Debug.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.FileVersionInfo.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.Process.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.StackTrace.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.TextWriterTraceListener.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.Tools.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.TraceSource.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Diagnostics.Tracing.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Drawing.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Drawing.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Dynamic.Runtime.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Globalization.Calendars.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Globalization.Extensions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Globalization.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.Compression.Brotli.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.Compression.FileSystem.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.Compression.ZipFile.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.Compression.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.FileSystem.AccessControl.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.FileSystem.DriveInfo.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.FileSystem.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.FileSystem.Watcher.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.FileSystem.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.IsolatedStorage.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.MemoryMappedFiles.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.Pipes.AccessControl.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.Pipes.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.UnmanagedMemoryStream.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.IO.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Linq.Expressions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Linq.Parallel.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Linq.Queryable.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Linq.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Memory.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Http.Json.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Http.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.HttpListener.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Mail.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.NameResolution.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.NetworkInformation.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Ping.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Quic.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Requests.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Security.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.ServicePoint.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.Sockets.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.WebClient.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.WebHeaderCollection.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.WebProxy.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.WebSockets.Client.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.WebSockets.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Net.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Numerics.Vectors.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Numerics.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ObjectModel.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Private.DataContractSerialization.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Private.Uri.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Private.Xml.Linq.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Private.Xml.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.DispatchProxy.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.Emit.ILGeneration.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.Emit.Lightweight.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.Emit.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.Extensions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.Metadata.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.TypeExtensions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Reflection.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Resources.Reader.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Resources.ResourceManager.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Resources.Writer.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.CompilerServices.VisualC.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Extensions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Handles.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.InteropServices.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Intrinsics.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Loader.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Numerics.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Serialization.Json.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Serialization.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Serialization.Xml.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.Serialization.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Runtime.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.AccessControl.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Claims.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Cryptography.Algorithms.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Cryptography.Cng.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Cryptography.Csp.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Cryptography.Encoding.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Cryptography.OpenSsl.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Cryptography.Primitives.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Cryptography.X509Certificates.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Principal.Windows.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.Principal.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.SecureString.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Security.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ServiceModel.Web.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ServiceProcess.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Text.Encoding.Extensions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Text.Encoding.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Text.Json.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Text.RegularExpressions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.Channels.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.Overlapped.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.Tasks.Dataflow.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.Tasks.Extensions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.Tasks.Parallel.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.Tasks.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.Thread.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.ThreadPool.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.Timer.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Threading.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Transactions.Local.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Transactions.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.ValueTuple.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Web.HttpUtility.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Web.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Windows.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.Linq.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.ReaderWriter.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.Serialization.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.XDocument.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.XPath.XDocument.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.XPath.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.XmlDocument.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.XmlSerializer.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Xml.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\WindowsBase.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\mscorlib.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\netstandard.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\System.Private.CoreLib.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\dotnet.js
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\dotnet.timezones.blat
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\dotnet.wasm
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\icudt.dat
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\icudt_CJK.dat
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\icudt_EFIGS.dat
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\icudt_no_CJK.dat
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\MudBz_Qltv_Web.Shared.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\bin\Debug\net6.0\MudBz_Qltv_Web.Shared.pdb
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.csproj.AssemblyReference.cache
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.AssemblyInfoInputs.cache
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.AssemblyInfo.cs
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.MvcApplicationPartsAssemblyInfo.cache
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\6Xgy0WOs.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\lny3RVn7.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\usAlCm25.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\VLbu22HO.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Y6bhczQV.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\XIr64pBc.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\wYChWt3M.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\giIRB3D9.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Ckdb0cRV.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\nTyqX2Jc.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\j2UXTHYR.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\NvoOMxGY.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\RfqvE3HR.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Aqlf7RpI.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\PzxbqAPK.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\iZXNbknL.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\MSFyViXu.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\NfJ7PkXS.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\dzkpb4WI.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\+MEnUSXN.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\NiPlENV0.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\YSIsAmMC.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\w+bUIyOE.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\xuqsPIMB.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ocksh5cN.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\8JYGd8Db.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\bzb5axGB.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\yInAu+Qs.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\59+2tVNX.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\wpji6qKG.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\9tWjYa+i.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\6IQhwrUB.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\WocdetbA.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\H4qVYHSq.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Pr6nzcCk.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Sa5U+PBi.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\F4XsceFY.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\bt+fdB8P.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\yTJIvIeo.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\kalPow8w.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\IEh26ZJZ.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\QtHF4fvw.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\tw+b2JHk.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\kYHImh4d.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\QMGZB+0y.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\sZ+TMl8N.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Mp2wcHDB.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\WX5i+p5+.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\P8ZEU+JO.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\GJ+NiwPa.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\RqvXnvbX.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\DLU7pVVT.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\UNtKaA28.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Ob7ctran.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\sJlj9a+Q.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\e6g2t1pQ.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\W0izQ+5f.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\6YoijdQA.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Oi3any5f.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\RbdpYQRO.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\8eFeNdTB.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\GytzdSJa.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ZQnulVkq.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\HI56uH2b.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\cnsrXwte.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Hl0zOC2Z.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\nUHqhgQ2.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\z7RDXbZu.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\qO0h6khX.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Q3hoBmAg.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\bFD43DjJ.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Br712+tD.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\G7jiy20Y.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\CmScq843.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Do0woV1R.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\SJiLXH6A.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\rufcXJAx.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\hCyKk609.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\iYhsVj4E.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\cZ7mpVFh.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Wf4zf9HS.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\uo3yMEex.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ZaUYJ02t.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ll2HheLP.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\VPx7Av22.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Zh0XLpQR.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\X0K+094y.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\iZaz4VLU.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\+pIPEjmB.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\uJ+6c7yR.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\b+KjwPi5.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\nZ8Fnc9J.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Ypws5+hj.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\uCHM8IyL.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\mAQKU20v.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\2y4zzTd6.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\0qZjjXot.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\dYfvftsL.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\5NZLBHdC.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ebu6nFGY.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\DX13CH8b.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\XYJC5PuW.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\gCunDJ3q.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\B79BZ88J.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\QsWW1qQ+.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\DRqIOaDb.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\f6EO7d6u.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\KVT2orZj.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ZoDi2t+O.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\cIMdU8MH.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\BK7KWAjc.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\pRJUPtdC.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\THS89H8E.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\rnYKXTbf.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\EAonwkuE.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\uwdfhIIx.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\aQJ4huSi.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\OF+RI59W.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\q9P0sBII.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ZVp0gwKU.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Zl1buzy8.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\dAUmL7Dg.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\NBpLjDwx.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\27biQRuP.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ARWjPzO1.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\mPGin+qO.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\qIdz09r2.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\xDgO6G4x.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\mPNnQQOG.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\6nZW8Rot.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Rd5tqZ06.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\jVEYbHBc.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\DGxXt62e.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\wMmKk+u8.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\zUmSW5sw.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\DRoonrw5.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\hcQYwpoI.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\BYO1QCH1.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\dMUYwGtK.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Ybr31YyC.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\82iyGdKp.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\j4QHu9ih.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\v093cH+a.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\PKWOG3AT.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\T2TAvTnq.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\dNAbT1gc.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Z49PpG3M.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\TM4mBcAr.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\g7TNuVPF.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\PAisPRXi.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\9mXElCyC.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Avw6fNzq.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\lWIQn1bf.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\AmRrgIIZ.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\GTRfjwFs.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\4ljWAOvC.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\rqvpTZMr.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\kSkrCkGQ.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\n75FYE94.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\0PfyAUvq.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\1rZP7+s5.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\lqnl5miB.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\q3kEMwge.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\PvkHjJeO.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\QbUSpvN5.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\nBSBBHBr.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\f1m85NQM.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\sbhZq9na.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\+6PKHg3S.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\jBNvoT61.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\RiK1aE3g.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\3d2zdh9I.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\+p270jcM.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\a1I47wC2.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\aVMVTJwj.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\c7CEyHZO.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\MSLunn7x.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\+ObYyRyh.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\0OiLe3g8.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\w4E+ObHE.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\UUJ6JvQO.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\I0IR1z9L.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\K4oswXn0.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\rKg41ADE.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Pq3KUYED.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\gGjuBbh9.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\0ehUdAtp.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\17iPdSdN.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\D77dH3Ld.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\4R52J5Ni.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\9Nctr+Fh.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\sVB1zas4.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\iFxDTmLB.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\U5saQhnc.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\c68bD1aa.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\Fd1+uInA.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\u7FIvSug.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\vkmUWOAL.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\3bnXY554.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\ilNvfE6p.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\HgWcx8O9.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\build-gz\0TQzzShW.gz
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\blazor.boot.json
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\staticwebassets.build.json
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\staticwebassets.development.json
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\scopedcss\bundle\MudBz_Qltv_Web.Client.styles.css
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.csproj.CopyComplete
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\refint\MudBz_Qltv_Web.Client.dll
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\MudBz_Qltv_Web.Client.pdb
+D:\BÀI TẬP\Đồ án C#\MudBz_Qltv_Web\MudBz_Qltv_Web\Client\obj\Debug\net6.0\ref\MudBz_Qltv_Web.Client.dll
