@@ -1,0 +1,53 @@
+﻿@page "/dkmuon"
+
+<MudTextField Style="width: 350px" @bind-Value="TextValue1" Label="Họ Tên" Variant="Variant.Outlined"></MudTextField>
+<MudTextField Style="width: 350px" @bind-Value="TextValue2" Label="MSSV" Variant="Variant.Outlined"></MudTextField>
+<MudTextField Style="width: 350px" @bind-Value="TextValue3" Label="Tên Sách" Variant="Variant.Outlined"></MudTextField>
+<MudTextField Style="width: 350px" @bind-Value="TextValue4" Label="Mã Sách" Variant="Variant.Outlined"></MudTextField>
+<MudTextField Style="width: 350px" @bind-Value="TextValue5" Label="Lớp" Variant="Variant.Outlined"></MudTextField>
+
+<MudTextField Style="width: 350px" T="DateTime?" Format="yyyy-MM-dd" Label="Năm sinh"  InputType="InputType.Date"/>
+<MudTextField Style="width: 350px" T="DateTime?" Format="yyyy-MM-dd" Label="Ngày mượn"  InputType="InputType.Date"/>
+
+<MudStack Row="true">
+    <MudPaper Width="350px">
+        <MudList Clickable="true" @bind-SelectedItem="selectedItem" @bind-SelectedValue="selectedValue" > 
+            <MudListItem Text="Khoa">
+                <NestedList>
+                    <MudListItem Text="Công Nghệ Thông Tin" Value="2" />
+                    <MudListItem Text="Công Nghệ Ô Tô" Value="3" />
+                </NestedList>
+            </MudListItem>
+        </MudList>
+    </MudPaper>
+</MudStack>
+<MudStack Row="true">
+    <MudPaper Width="350px">
+        <MudList Clickable="true" @bind-SelectedItem="selectedItem" @bind-SelectedValue="selectedValue" > 
+            <MudListItem Text="Thể Loại">
+                <NestedList>
+                    <MudListItem Text="Khoa học" Value="2" />
+                    <MudListItem Text="Giải Trí" Value="3" />
+                </NestedList>
+            </MudListItem>
+        </MudList>
+    </MudPaper>
+</MudStack>
+<MudNumericField HideSpinButtons="true" Style="width: 350px" @bind-Value="DecimalValue1" Label="MSSV" Variant="Variant.Outlined" Step=".2M" />
+<MudNumericField HideSpinButtons="true" Style="width: 350px" @bind-Value="DecimalValue2" Label="Số CMND OR CCCD" Variant="Variant.Outlined" Step=".2M" />
+<MudButton Variant="Variant.Filled" StartIcon="@Icons.Material.Filled.Save" Color="Color.Info"  Size="Size.Small">Save</MudButton>
+
+@code {
+	  public string TextValue1 { get; set; }
+      public string TextValue2 { get; set; }
+      public string TextValue3 { get; set; }
+      public string TextValue4 { get; set; }
+      public string TextValue5 { get; set; }
+
+      MudListItem selectedItem;
+      object selectedValue = 1;
+
+      public decimal DecimalValue1 { get; set; }
+      public decimal DecimalValue2 { get; set; }
+      
+}
